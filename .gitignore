@@ -1,5 +1,8 @@
 # Ignore folder named `node_modules`
 node_modules/
 
+# Ignore folder named `playground`
+playground/
+
 # Ignore Mac specific hidden file
 .DS_Store
