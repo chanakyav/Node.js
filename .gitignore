@@ -9,3 +9,6 @@ config.json
 
 # Ignore Mac specific hidden file
 .DS_Store
+
+# Ignore server log
+server.log
